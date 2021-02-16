@@ -1,0 +1,2 @@
+# ProgrammingLanguages_Attempt0
+SAME CODE. DIFFERENT LANGUAGES (BASIC COUNTING 1O)
